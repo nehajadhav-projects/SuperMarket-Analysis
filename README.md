@@ -9,6 +9,9 @@ ________________________________________
 3.	Assess customer preferences based on payment methods (cash, credit card, e-wallet).
 4.	Explore monthly trends in sales and COGS to detect seasonality and predict future performance.
 5.	Understand the relationship between ratings, customer types (members vs. normal), and sales.
+   
+## Dataset Used
+- <a href="https://github.com/nehajadhav-projects/SuperMarket-Analysis/blob/main/SuperMarket%20Analysis.csv"> View Dataset Used</a>
 ________________________________________
 ## Dashboard
 
