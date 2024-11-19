@@ -14,6 +14,7 @@ ________________________________________
 - <a href="https://github.com/nehajadhav-projects/SuperMarket-Analysis/blob/main/SuperMarket%20Analysis.csv"> View Dataset Used</a>
 ________________________________________
 ## Dashboard
+![Screenshot 2024-11-19 140036](https://github.com/user-attachments/assets/c5d49a40-f97b-49f1-9757-d656488be33c)
 
 
 ## Key Insights
@@ -54,6 +55,7 @@ ________________________________________
 -	Proposed strategies to optimize profit margins by reducing COGS in high-sales categories like Food and Beverages.
 -	Provided actionable recommendations to leverage payment method trends and enhance customer loyalty programs.
 -	Improved understanding of seasonality, enabling better forecasting and resource allocation during peak and low-sales periods.
+
 ________________________________________
 ## Conclusion
 The supermarket chain demonstrates strong performance in select branches and product categories, with potential for optimization in pricing, marketing, and resource allocation. Implementing data-driven strategies can increase profit margins, customer retention, and overall operational efficiency, solidifying the supermarket's market position.
