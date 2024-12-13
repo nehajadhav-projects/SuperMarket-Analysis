@@ -12,10 +12,13 @@ ________________________________________
    
 ## Dataset Used
 - <a href="https://github.com/nehajadhav-projects/SuperMarket-Analysis/blob/main/SuperMarket%20Analysis.csv"> View Dataset Used</a>
+
+## Dashboard
+- <a href="https://1drv.ms/x/c/4b71a64063f08211/EbgPtclQ4fpPqO7_7QifqFEBTw3Q5w6ANZ3ln_XLHS5Ufw?e=nzLBYb
+"> View Live Interactive Dashboard</a>
 ________________________________________
 ## Dashboard
 ![Screenshot 2024-11-19 140036](https://github.com/user-attachments/assets/c5d49a40-f97b-49f1-9757-d656488be33c)
-
 
 ## Key Insights
 1.	Branch-wise and City-wise Analysis:
